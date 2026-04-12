@@ -1,0 +1,16 @@
+{
+  "overview": "01_overview.png",
+  "timeline": "02_timeline.png",
+  "wordcloud": "03_wordcloud.png",
+  "cat_wc": "04_category_wordclouds.png",
+  "tfidf": "05_tfidf_heatmap.png",
+  "topics": "06_topic_evolution.png",
+  "network": "07_keyword_network.png",
+  "cat_year": "08_category_year.png",
+  "trends": "09_topic_trends.png",
+  "stats": "10_stats_summary.png",
+  "freq_dist": "11_word_freq_distribution.png",
+  "article_len": "12_article_length.png",
+  "bubble": "13_keyword_bubble.png",
+  "new_words": "14_yearly_new_words.png"
+}
