@@ -1,4 +1,20 @@
+<div align="center">
+
 # 微信公众号文本挖掘分析工具
+
+**从公众号文章文本到 14 张可视化图表与完整 HTML 分析报告。**
+
+<p>
+  <img alt="Python" src="https://img.shields.io/badge/Python-3.8%2B-3776AB">
+  <img alt="Charts" src="https://img.shields.io/badge/output-14%20visualizations-6C63FF">
+  <img alt="Report" src="https://img.shields.io/badge/report-HTML-2F80ED">
+  <img alt="License" src="https://img.shields.io/badge/license-MIT-27AE60">
+</p>
+
+**清洗 · 分词 · TF-IDF · NMF · 共现网络 · 趋势分析**
+
+</div>
+
 
 > 一键分析微信公众号文章，自动生成 **14 张专业可视化图表 + 完整 HTML 报告**。  
 > 无需编程基础，替换数据即可运行。
